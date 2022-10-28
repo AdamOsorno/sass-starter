@@ -10867,5 +10867,14 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.section-title {
+  font-size: 40px;
+  font-weight: 700;
+  padding: 20px;
+}
+
+.hero h1, .hero .h1 {
+  color: white;
+}
 
 /*# sourceMappingURL=style.css.map */
